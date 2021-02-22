@@ -20,7 +20,9 @@ export default function Home() {
 					alignItems="center"
 					justifyContent="center"
 				>
-					<HeadingSmall color="#1e2a32">Tela da home :D</HeadingSmall>
+					<HeadingSmall color="#1e2a32">
+						Tela da home com um novo conteúdo :D
+					</HeadingSmall>
 				</Flex>
 			</AuthSection>
 		</AuthWrapper>
