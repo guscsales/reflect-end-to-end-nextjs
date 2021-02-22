@@ -19,11 +19,11 @@ export default function Login() {
 		onSubmit: () => {
 			setLoading(true);
 			setTimeout(() => {
-				// router.push('/');
+				router.push('/');
 
 				// Simulação de erro
-				setError(true);
-				setLoading(false);
+				// setError(true);
+				// setLoading(false);
 			}, 2000);
 		},
 	});
