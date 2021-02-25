@@ -13,3 +13,9 @@ yarn dev
 ```
 
 Abra [http://localhost:3000](http://localhost:3000) com o seu browser para ver os resultados.
+
+## Confira o vídeo relacionado
+
+Confira o vídeo no YouTube [aqui](https://www.youtube.com/watch?v=HsSf2ccLDkg)
+
+![https://www.youtube.com/watch?v=HsSf2ccLDkg](readme/gus-quem-fala.png "https://www.youtube.com/watch?v=HsSf2ccLDkg")
